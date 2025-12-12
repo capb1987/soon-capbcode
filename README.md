@@ -1,5 +1,8 @@
 # Capb Code - Próximamente
 
+<img width="1856" height="1257" alt="imagen" src="https://github.com/user-attachments/assets/6f066e0e-217e-4abb-bb32-5633193c73b4" />
+
+
 ## 🚀 Inicio
 
  permite instalar el proyecto 
