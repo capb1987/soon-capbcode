@@ -2,6 +2,7 @@
 
 ## 🚀 Inicio
 
+ permite instalar el proyecto 
 ```bash
 pnpm install
 ```
